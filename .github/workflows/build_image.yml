@@ -28,5 +28,5 @@ jobs:
         with:
           context: ./10.3
           push: true
-          tags: uclalibrary/mariadb:10.3
+          tags: uclalibrary/californica-mariadb:10.3
           platforms: linux/amd64,linux/arm64
